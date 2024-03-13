@@ -6,4 +6,4 @@ COPY Main.java /app
 
 WORKDIR /app
 
-CMD java Main
+CMD java Main.java
